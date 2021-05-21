@@ -14,7 +14,7 @@ Esse workshop tem o objetivo de demonstrar o uso do Quarkus para resolver os cas
 
 ## Agenda
 
-##### Session 1
+##### [Session 1](https://github.com/redhat-sa-brazil/quarkus-hands-on/blob/main/session-1/session-1.md)
 - Criando uma aplicação com Quarkus com arquétipo;
 - Adicionado uma camada OpenAPI com Swagger;
 - Adicionando uma camada de segurança e autenticação com RH-SSO;
