@@ -7,9 +7,9 @@ Esse workshop tem o objetivo de demonstrar o uso do Quarkus para resolver os cas
 
 ## Iniciando
 
--- Você precisa de um IDE como: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Eclipse](https://www.eclipse.org/downloads/) ou [VSCode](https://code.visualstudio.com/Download);
--- Você precisa de um [JDK 8 ou 11+](https://adoptopenjdk.net/) (qualquer distribuição) Opcionalmente, obtenha [GraalVM](https://www.graalvm.org/) 21.0.0 para compilação nativa;
--- Você precisa do Apache [Maven 3.6.2+](https://maven.apache.org/) ou Gradle. 
+- Você precisa de um IDE como: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Eclipse](https://www.eclipse.org/downloads/) ou [VSCode](https://code.visualstudio.com/Download);
+- Você precisa de um [JDK 8 ou 11+](https://adoptopenjdk.net/) (qualquer distribuição) Opcionalmente, obtenha [GraalVM](https://www.graalvm.org/) 21.0.0 para compilação nativa;
+- Você precisa do Apache [Maven 3.6.2+](https://maven.apache.org/) ou Gradle. 
 
 ## Agenda
 
